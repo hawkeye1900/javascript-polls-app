@@ -10,4 +10,4 @@ The percentage of votes for each chosen language are indicated in a horizontal b
 
 ## What language is this written in?
 
-THhe app uses HTML, CSS and vanilla Javascript. There are no libraries.
+The app uses HTML, CSS and vanilla Javascript. There are no libraries.
